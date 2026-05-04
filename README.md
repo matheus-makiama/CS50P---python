@@ -4,6 +4,13 @@ This repository documents my Python learning journey through Harvard's **CS50P: 
 
 I write the exercises myself, then use AI to improve readability, organize notes, create review questions, and help me check my understanding.
 
+## Quick links
+
+- [Overview](./Overview.md)
+- Lecture 0: [Notes](./Lecture%200%20-%20Functions,%20Variables/Notes/Review.md)
+- Lecture 1: [Notes](./Lecture%201/Notes/Review.md) | [Exercises](./Lecture%201/Exercise/) | [Test questions](./Lecture%201/Test/Questions.md)
+- Lecture 2: [Notes](./Lecture%202/Notes/Review.md) | [Exercises](./Lecture%202/Exercise/) | [Test questions](./Lecture%202/Test/Questions.md)
+
 ## Why CS50P?
 
 I originally started learning Python through Angela Yu's 100 Days of Code, but later switched to CS50P because it fits my learning style better.
